@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-06T17:47:34.339Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="e4WE_IYlgvtxZheB5KNz" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T21:47:45.311Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="E3K7ZH6rBQiVESPVyU3w" version="24.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1387" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1787" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -86,9 +86,6 @@
         <mxCell id="Raa88vT9dRmdnlTgITXZ-10" value="REORDER&lt;div&gt;MANAGEMENT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="358" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Raa88vT9dRmdnlTgITXZ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Raa88vT9dRmdnlTgITXZ-11" target="Raa88vT9dRmdnlTgITXZ-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Raa88vT9dRmdnlTgITXZ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Raa88vT9dRmdnlTgITXZ-11" target="Raa88vT9dRmdnlTgITXZ-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -113,11 +110,8 @@
         <mxCell id="Raa88vT9dRmdnlTgITXZ-25" value="DELETE ORDER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="510" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Raa88vT9dRmdnlTgITXZ-30" value="EXPORT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="690" y="510" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="Raa88vT9dRmdnlTgITXZ-32" value="PRINT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="510" width="80" height="40" as="geometry" />
+          <mxGeometry x="630" y="510" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
